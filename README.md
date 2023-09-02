@@ -7,7 +7,7 @@ Welcome to the repository for solutions to various programming challenges and pr
 ## Features
 
 - **Data Structures**: A deep dive into various data structures like linked lists, arrays, stacks, queues, trees, graphs, etc.
-- **Challenges**: A set of programming challenges sorted by difficulty, each with its own detailed explanation and unit tests.
+- **Challenges**: A set of programming challenges, each with its own detailed explanation and unit tests.
 
 ## Prerequisites
 
