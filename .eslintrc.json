@@ -55,6 +55,8 @@
     "lines-between-class-members": "off",
     "no-console": "off",
     "no-empty-function": "off",
+    "no-param-reassign": "off",
+    "no-plusplus": "off",
     "no-shadow": "off",
     "no-useless-constructor": "off",
     "prettier/prettier": "error"
